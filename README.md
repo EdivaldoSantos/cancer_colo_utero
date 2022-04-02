@@ -1,6 +1,3 @@
-# cancer_colo_utero
-####**Identificação:** José Edivaldo Silva dos Santos (2578249)
-
 **Identificação do tipo de câncer do colo do útero**
 
 Câncer cervical ou câncer do colo do útero, é a parte inferior do útero. A maioria dos cânceres cervicais é causada pelo papiloma vírus humano (HPV ou vírus da verruga).

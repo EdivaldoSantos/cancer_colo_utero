@@ -30,7 +30,7 @@ Utilizaremos um diretório para Treinamento e outro para teste (Validação do a
 
 Para o desenvolvimento desse projeto o VScode, Anacondas 2.0.3 o Python 3.8.8 e as biblioteca:
 
--   [OpenCV](https://docs.opencv.org/3.4.0/index.html)
+-   [OpenCV](https://docs.opencv.org/3.4.0/index.html) -  É uma biblioteca que possui funções de manipulações básicas de imagens e vídeos, desde o carregamento de arquivos, até a conversão de um formato em outro.
 -   [Numpy](https://numpy.org/)
 -   [Pandas](https://pandas.pydata.org/)
 -   [Matplotlib](https://matplotlib.org/)

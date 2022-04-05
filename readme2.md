@@ -3,16 +3,7 @@
     <img src="imagem/2.png" alt="Logo">
   </a>
 
-  <p align="center">
-    Front-End para o site EPedido
-    <br />
-    <br />
-    <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-red?logo=Angular&style=flat-square"></a>
-    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&style=flat-square"></a>
-    <a href="https://eslint.org/"><img src="https://img.shields.io/badge/Code--style-ESLint-blue?logo=ESLint&style=flat-square"></a>
-    <a href="https://prettier.io/"><img src="https://img.shields.io/badge/Formatter-Prettier-orange?logo=Prettier&style=flat-square"></a>
-  </p>
-</p>
+
 
 <details open="open">
   <summary>Tabela de conteúdos</summary>

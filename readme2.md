@@ -31,12 +31,12 @@ Utilizaremos um diretório para Treinamento e outro para teste (Validação do a
 Para o desenvolvimento desse projeto o VScode, Anacondas 2.0.3 o Python 3.8.8 e as biblioteca:
 
 -   [OpenCV](https://docs.opencv.org/3.4.0/index.html) -  É uma biblioteca que possui funções de manipulações básicas de imagens e vídeos, desde o carregamento de arquivos, até a conversão de um formato em outro.
--   [Numpy](https://numpy.org/)
--   [Pandas](https://pandas.pydata.org/)
--   [Matplotlib](https://matplotlib.org/)
--   [Scikit-learn](https://scikit-learn.org/stable/)
--   [TensorFlow](https://www.tensorflow.org/resources/libraries-extensions?hl=pt-br)
--   [Keras](https://keras.io/)
+-   [Numpy](https://numpy.org/) - É uma biblioteca com funções para se trabalhar com computação numérica. Seu principal objeto é o vetor n-dimensional, ou ndarray.
+-   [Pandas](https://pandas.pydata.org/) - Uma biblioteca que oferece estruturas e operações para manipular tabelas numéricas e séries temporais; uma ferramenta de processamento de dados de alto desempenho; com recursos flexíveis de manipulação de planilhas e de banco de dados relacionais.
+-   [Matplotlib](https://matplotlib.org/) - Essa biblioteca é utilizada para criação de gráficos e visualização de dados.
+-   [Scikit-learn](https://scikit-learn.org/stable/) - É uma biblioteca de aprendizado de máquina, nela encontramos vários algoritmos de classificação, regressão e agrupamento incluindo máquinas de vetores de suporte.
+-   [TensorFlow](https://www.tensorflow.org/resources/libraries-extensions?hl=pt-br) - Biblioteca de código aberto para computação numérica usando grafos de fluxo de dados, que é tudo o que uma rede neural realmente é.
+-   [Keras](https://keras.io/) - Biblioteca de rede neural modular que pode usar tanto Theano ou TensorFlow como um backend.
 
 ### Refrencias
 - https://insightlab.ufc.br/8-bibliotecas-de-deep-learning-mais-usadas-em-python/

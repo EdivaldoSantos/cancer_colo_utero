@@ -1,4 +1,15 @@
-**Identificação do tipo de câncer do colo do útero**
+<p align="center">
+  <a>
+    <img src="imagem/2.png" alt="Logo">
+  </a>
+  <p align="center">
+    Identificação do tipo de câncer do colo do útero
+    <br />
+    <br />
+    </p>
+</p>
+
+## Sobre o projeto
 
 Câncer cervical ou câncer do colo do útero, é a parte inferior do útero. A maioria dos cânceres cervicais é causada pelo papiloma vírus humano (HPV ou vírus da verruga).
 
@@ -6,70 +17,44 @@ Este vírus provoca alterações nas células cervicais que podem se transformar
 
 O tratamento pode ser cirurgia, quimioterapia e radiação. Se descoberto numa fase precoce, é muito provável a cura. Um dos maiores desafios para buscar um  tratamento do câncer do colo do útero, é determinar o método de tratamento adequado, que pode variar dependendo das diferenças fisiológicas dos pacientes.
 
-**Objetivo**
+### Objetivo
 
 Desenvolver um algoritmo que identifique com precisão o tipo de colo do útero de uma mulher com base em imagens.
 
-**Especificação Técnica**
+### Especificação Técnica
 
-O dataset utilizado para o desenvolvimento desse projeto foi localizado no portal https://www.kaggle.com/, **“intel-mobileodt-cervical-cancer-screening”**. Importado para meu Google Drive para facilitar a integração com o Google Colab.
+O dataset utilizado para o desenvolvimento desse projeto foi localizado no portal https://www.kaggle.com/,  **"intel-mobileodt-cervical-cancer-screening”**.
 
 O formato dos dados utilizados neste dataset são;
-Arquivos em CSV;
-Imagens em JPG
+
+- Imagens em JPG
 
 Utilizaremos um diretório para Treinamento e outro para teste (Validação do algoritmo)
 
 
-Bibliotecas utilizadas
+### Bibliotecas e programas utilizados
 
-Para o desenvolvimento desse projeto o Google Colab, Google Drive o Python 3.7.11 e as biblioteca:
+Para o desenvolvimento desse projeto o VScode, Anacondas 2.0.3 o Python 3.8.8 e as biblioteca:
 
-**OpenCV** - É uma biblioteca que possui funções de manipulações básicas de imagens e vídeos, desde o carregamento de arquivos, até a conversão de um formato em outro.
+-   [OpenCV](https://docs.opencv.org/3.4.0/index.html) -  É uma biblioteca que possui funções de manipulações básicas de imagens e vídeos, desde o carregamento de arquivos, até a conversão de um formato em outro.
+-   [Numpy](https://numpy.org/) - É uma biblioteca com funções para se trabalhar com computação numérica. Seu principal objeto é o vetor n-dimensional, ou ndarray.
+-   [Pandas](https://pandas.pydata.org/) - Uma biblioteca que oferece estruturas e operações para manipular tabelas numéricas e séries temporais; uma ferramenta de processamento de dados de alto desempenho; com recursos flexíveis de manipulação de planilhas e de banco de dados relacionais.
+-   [Matplotlib](https://matplotlib.org/) - Essa biblioteca é utilizada para criação de gráficos e visualização de dados.
+-   [Scikit-learn](https://scikit-learn.org/stable/) - É uma biblioteca de aprendizado de máquina, nela encontramos vários algoritmos de classificação, regressão e agrupamento incluindo máquinas de vetores de suporte.
+-   [TensorFlow](https://www.tensorflow.org/resources/libraries-extensions?hl=pt-br) - Biblioteca de código aberto para computação numérica usando grafos de fluxo de dados, que é tudo o que uma rede neural realmente é.
+-   [Keras](https://keras.io/) - Biblioteca de rede neural modular que pode usar tanto Theano ou TensorFlow como um backend.
 
-**Numpy** - É uma biblioteca com funções para se trabalhar com computação numérica. Seu principal objeto é o vetor n-dimensional, ou ndarray.
-
-**Pandas** - Uma biblioteca que oferece estruturas e operações para manipular tabelas numéricas e séries temporais; uma ferramenta de processamento de dados de alto desempenho; com recursos flexíveis de manipulação de planilhas e de banco de dados relacionais.
-
-**Matplotlib** - Essa biblioteca é utilizada para criação de gráficos e visualização de dados.
-
-**Scikit-learn** - É uma biblioteca de aprendizado de máquina, nela encontramos vários algoritmos de classificação, regressão e agrupamento incluindo máquinas de vetores de suporte.
-
-**Seaborn** - É uma biblioteca de visualização de dados Python baseada em matplotlib . Ele fornece uma interface de alto nível para desenhar gráficos estatísticos atraentes e informativos.
-
-
-**PIL** - Oferece amplo suporte a formatos de arquivo, uma representação interna eficiente e recursos de processamento de imagem bastante poderosos,
-projetada para acesso rápido a dados armazenados em alguns formatos básicos de pixel.
-
-**TensorFlow** - Biblioteca de código aberto para computação numérica usando grafos de fluxo de dados, que é tudo o que uma rede neural realmente é.
-
-**Keras** - Biblioteca de rede neural modular que pode usar tanto Theano ou TensorFlow como um backend.
-
-
-# Referências 
-https://insightlab.ufc.br/8-bibliotecas-de-deep-learning-mais-usadas-em-python/
-https://didatica.tech/o-que-e-tensorflow-para-que-serve/
-https://pypi.org/project/Pillow/
-https://imasters.com.br/back-end/primeiros-passos-com-pil-a-biblioteca-de-imagens-do-python
-https://www.tensorflow.org/?hl=pt-br
-https://www.hashtagtreinamentos.com/graficos-com-seaborn-no-python
-https://seaborn.pydata.org/
-
-
-
-Refrencia 
-A Biblioteca Padrão do Python
-https://docs.python.org/pt-br/3/library/index.html
-
-
-
-OS
-"os.path.join"  -- https://acervolima.com/python-metodo-os-path-join/#:~:text=os.-,path.,o%20%C3%BAltimo%20componente%20de%20caminho.
-Acesso a arquivos e diretórios - https://docs.python.org/pt-br/3/library/filesys.html
-https://www.hashtagtreinamentos.com/biblioteca-os-no-python
-
-
-glob
-https://ichi.pro/pt/o-modulo-python-glob-78993832066349
-
-Plotly - https://plotly.com/python/
+### Refrencias
+- https://insightlab.ufc.br/8-bibliotecas-de-deep-learning-mais-usadas-em-python/
+- https://didatica.tech/o-que-e-tensorflow-para-que-serve/
+- https://pypi.org/project/Pillow/
+- https://imasters.com.br/back-end/primeiros-passos-com-pil-a-biblioteca-de-imagens-do-python
+- https://www.tensorflow.org/?hl=pt-br
+- https://www.hashtagtreinamentos.com/graficos-com-seaborn-no-python
+- https://seaborn.pydata.org/
+- https://docs.python.org/pt-br/3/library/index.html
+- https://acervolima.com/python-metodo-os-path-join/#:~:text=os.-,path.,o%20%C3%BAltimo%20componente%20de%20caminho.
+- https://docs.python.org/pt-br/3/library/filesys.html
+- https://www.hashtagtreinamentos.com/biblioteca-os-no-python
+- https://ichi.pro/pt/o-modulo-python-glob-78993832066349
+- https://plotly.com/python/

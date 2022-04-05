@@ -15,9 +15,9 @@ O tratamento pode ser cirurgia, quimioterapia e radiação. Se descoberto numa f
 
 Desenvolver um algoritmo que identifique com precisão o tipo de colo do útero de uma mulher com base em imagens.
 
-### Especificação Técnica**
+### Especificação Técnica
 
-O dataset utilizado para o desenvolvimento desse projeto foi localizado no portal https://www.kaggle.com/, ### intel-mobileodt-cervical-cancer-screening”**.
+O dataset utilizado para o desenvolvimento desse projeto foi localizado no portal https://www.kaggle.com/,  **"intel-mobileodt-cervical-cancer-screening”**.
 
 O formato dos dados utilizados neste dataset são;
 Arquivos em CSV;
@@ -26,9 +26,9 @@ Imagens em JPG
 Utilizaremos um diretório para Treinamento e outro para teste (Validação do algoritmo)
 
 
-### Utiliza
+### Bibliotecas utilizadas
 
-Lista de frameworks, bibliotecas, add-ons e plugins importantes utilizados neste projeto
+Para o desenvolvimento desse projeto o VScode, anacondas o Python 3.7.11 e as biblioteca:
 
 -   [Node.js](https://nodejs.org/)
 -   [ESLint](https://eslint.org/)

@@ -20,7 +20,7 @@ Desenvolver um algoritmo que identifique com precisão o tipo de colo do útero 
 O dataset utilizado para o desenvolvimento desse projeto foi localizado no portal https://www.kaggle.com/,  **"intel-mobileodt-cervical-cancer-screening”**.
 
 O formato dos dados utilizados neste dataset são;
-- Arquivos em CSV;
+
 - Imagens em JPG
 
 Utilizaremos um diretório para Treinamento e outro para teste (Validação do algoritmo)
@@ -39,16 +39,16 @@ Para o desenvolvimento desse projeto o VScode, Anacondas 2.0.3 o Python 3.8.8 e 
 -   [Keras](https://keras.io/)
 
 ### Refrencias
-https://insightlab.ufc.br/8-bibliotecas-de-deep-learning-mais-usadas-em-python/
-https://didatica.tech/o-que-e-tensorflow-para-que-serve/
-https://pypi.org/project/Pillow/
-https://imasters.com.br/back-end/primeiros-passos-com-pil-a-biblioteca-de-imagens-do-python
-https://www.tensorflow.org/?hl=pt-br
-https://www.hashtagtreinamentos.com/graficos-com-seaborn-no-python
-https://seaborn.pydata.org/
-https://docs.python.org/pt-br/3/library/index.html
-https://acervolima.com/python-metodo-os-path-join/#:~:text=os.-,path.,o%20%C3%BAltimo%20componente%20de%20caminho.
-https://docs.python.org/pt-br/3/library/filesys.html
-https://www.hashtagtreinamentos.com/biblioteca-os-no-python
-https://ichi.pro/pt/o-modulo-python-glob-78993832066349
-https://plotly.com/python/
+- https://insightlab.ufc.br/8-bibliotecas-de-deep-learning-mais-usadas-em-python/
+- https://didatica.tech/o-que-e-tensorflow-para-que-serve/
+- https://pypi.org/project/Pillow/
+- https://imasters.com.br/back-end/primeiros-passos-com-pil-a-biblioteca-de-imagens-do-python
+- https://www.tensorflow.org/?hl=pt-br
+- https://www.hashtagtreinamentos.com/graficos-com-seaborn-no-python
+- https://seaborn.pydata.org/
+- https://docs.python.org/pt-br/3/library/index.html
+- https://acervolima.com/python-metodo-os-path-join/#:~:text=os.-,path.,o%20%C3%BAltimo%20componente%20de%20caminho.
+- https://docs.python.org/pt-br/3/library/filesys.html
+- https://www.hashtagtreinamentos.com/biblioteca-os-no-python
+- https://ichi.pro/pt/o-modulo-python-glob-78993832066349
+- https://plotly.com/python/

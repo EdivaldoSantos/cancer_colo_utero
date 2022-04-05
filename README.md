@@ -66,7 +66,10 @@ https://docs.python.org/pt-br/3/library/index.html
 OS
 "os.path.join"  -- https://acervolima.com/python-metodo-os-path-join/#:~:text=os.-,path.,o%20%C3%BAltimo%20componente%20de%20caminho.
 Acesso a arquivos e diretórios - https://docs.python.org/pt-br/3/library/filesys.html
+https://www.hashtagtreinamentos.com/biblioteca-os-no-python
 
 
 glob
 https://ichi.pro/pt/o-modulo-python-glob-78993832066349
+
+Plotly - https://plotly.com/python/

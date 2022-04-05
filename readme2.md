@@ -2,8 +2,18 @@
   <a>
     <img src="imagem/2.png" alt="Logo">
   </a>
+  <p align="center">
+    **Identificação do tipo de câncer do colo do útero**
+    <br />
+    <br />
+    <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-red?logo=Angular&style=flat-square"></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&style=flat-square"></a>
+    <a href="https://eslint.org/"><img src="https://img.shields.io/badge/Code--style-ESLint-blue?logo=ESLint&style=flat-square"></a>
+    <a href="https://prettier.io/"><img src="https://img.shields.io/badge/Formatter-Prettier-orange?logo=Prettier&style=flat-square"></a>
+  </p>
+</p>
 
-## Sobre o projeto: **Identificação do tipo de câncer do colo do útero**
+## Sobre o projeto
 
 Câncer cervical ou câncer do colo do útero, é a parte inferior do útero. A maioria dos cânceres cervicais é causada pelo papiloma vírus humano (HPV ou vírus da verruga).
 

@@ -23,7 +23,7 @@ Desenvolver um algoritmo que identifique com precisão o tipo de colo do útero 
 
 ### Especificação Técnica
 
-O dataset utilizado para o desenvolvimento desse projeto foi localizado no portal https://www.kaggle.com/datasets/ofriharel/224-224-cervical-cancer-screening.
+O dataset utilizado para o desenvolvimento desse projeto foi localizado no portal https://www.kaggle.com/,  **"intel-mobileodt-cervical-cancer-screening”**.
 
 O formato dos dados utilizados neste dataset são;
 

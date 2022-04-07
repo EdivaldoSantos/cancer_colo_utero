@@ -1,0 +1,12 @@
+# exibir barplot de contagem de tipos
+'''plt.figure(figsize = (15, 6))
+sns.barplot(x=tipo_count['quantidade'], y= tipo_count.index.to_list())
+plt.title('Distribuição do tipo de câncer do colo do útero')
+plt.grid(True)
+plt.show()'''
+
+'''plt.figure(figsize = (19, 10))
+cance_df["rotulos"].value_counts().plot.pie(title='Distribuição do tipo de câncer do colo do útero', autopct='%.2f%%', legend = False, fontsize=14) 
+plt.axis('equal')
+
+plt.show()'''

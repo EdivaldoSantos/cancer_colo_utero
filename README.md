@@ -58,3 +58,7 @@ Para o desenvolvimento desse projeto o VScode, Anacondas 2.0.3 o Python 3.8.8 e 
 - https://www.hashtagtreinamentos.com/biblioteca-os-no-python
 - https://ichi.pro/pt/o-modulo-python-glob-78993832066349
 - https://plotly.com/python/
+- https://www.analyticsvidhya.com/blog/2020/08/image-augmentation-on-the-fly-using-keras-imagedatagenerator/
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+- https://devskrol.com/2021/02/20/a-tip-a-day-python-tip-8-normalize-image-pixel-values-or-divide-by-255/
+
